@@ -1,0 +1,6 @@
+{
+  "name": "ApplyPulse - Auto-Apply Job Scanner & Tracker",
+  "description": "Scans job openings tailored to your preferences, parses your resume, automatically drafts high-converting cover letters, and tracks your application pipeline in a high-density split view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
